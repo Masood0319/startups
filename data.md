@@ -1,0 +1,4 @@
+username=startupsplatform7_db_user
+password=pOWq00lepTNCwzqm
+
+pOWq00lepTNCwzqm
